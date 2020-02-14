@@ -1,0 +1,5 @@
+.idea
+
+http-rest-api/configs/apiserver.toml
+http-rest-api/internal/app/store/store_test.go
+http-rest-api/apiserver
